@@ -5,11 +5,11 @@ A Claude Code skill that enforces a senior-engineer workflow on every code-writi
 ## Files
 
 - [`SKILL.md`](SKILL.md) — entry point and core workflow
-- [`design.md`](design.md) — design principles (DDD, SoC, dynamic programming)
-- [`testing.md`](testing.md) — TDD and unit-testing guidance
-- [`errors.md`](errors.md) — exception-handling discipline
-- [`security.md`](security.md) — secure-by-design engineering
-- [`patterns.md`](patterns.md) — judicious use of singletons and other patterns
+- [`references/design.md`](references/design.md) — design principles (DDD, SoC, dynamic programming)
+- [`references/testing.md`](references/testing.md) — TDD protocol and unit-testing guidance
+- [`references/errors.md`](references/errors.md) — exception-handling discipline
+- [`references/security.md`](references/security.md) — secure-by-design engineering
+- [`references/patterns.md`](references/patterns.md) — judicious use of singletons and other patterns
 - [`senior-developer.skill`](senior-developer.skill) — packaged bundle for one-step install
 
 ## Install
